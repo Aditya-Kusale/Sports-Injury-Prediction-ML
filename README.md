@@ -354,3 +354,7 @@ GitHub: https://github.com/Aditya-Kusale
 ## ⭐ If you found this project useful
 
 Consider giving the repository a star!
+
+## 📄 License
+
+This project is licensed under the MIT License © 2026 Aditya Kusale. See the [LICENSE](LICENSE) file for details.
